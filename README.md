@@ -1,4 +1,4 @@
-Olá
+Olá!
 
 ## Gabriel Piazer - 18 anos
 
