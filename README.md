@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá
 
-<!--
-**Piazer/Piazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gabriel Piazer - 18 anos
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia
+ 
+<br/> Atualmente estou atrás de novas oportunidades de trabalho.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> Você pode me encontrar aqui -> 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Piazer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-piazer/)](https://www.linkedin.com/in/gabriel-piazer/)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielmpiazer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmpiazer@gmail.com)](mailto:gabrielmpiazer@gmail.com)
+
