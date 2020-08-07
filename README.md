@@ -5,7 +5,7 @@ Olá!
 Apaixonado por tecnologia
  
 <br/> Atualmente estou atrás de novas oportunidades de trabalho.
-<br/> Tenho conhecimento em PHP, HTML, CSS e Jquery.
+<br/> Tenho conhecimento em PHP, HTML, CSS e JavaScript.
 
 <br/> Você pode me encontrar aqui -> 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Piazer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-piazer/)](https://www.linkedin.com/in/gabriel-piazer/)
