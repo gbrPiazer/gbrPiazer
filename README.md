@@ -7,7 +7,7 @@ Apaixonado por tecnologia
 <br/> Atualmente estou atrás de novas oportunidades de trabalho.
 <br/> Tenho conhecimento HTML, CSS e JavaScript.
 
-<br/> Você pode me encontrar aqui -> 
-[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/gbrpiazer/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielmpiazer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmpiazer@gmail.com)](mailto:gabrielmpiazer@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbrpiazer/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmpiazer@gmail.com)
 
